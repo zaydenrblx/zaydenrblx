@@ -9,7 +9,7 @@ I'm a selftaught developer that does random stuff.
 - **C#**
 - Some **Python**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!;I+love+building+games+and+tools;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lorem+ipsum+dolor+sit+amet)](https://git.io/typing-svg)
 
 ---
 
