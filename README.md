@@ -1,6 +1,6 @@
 # Hi
 
-I'm a selftaught developer that does random stuff. I've been coding since 2020 tho.
+I'm a selftaught developer that does random stuff.
 
 ### Languages I use:
 - **Lua**
